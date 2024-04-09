@@ -1,0 +1,2 @@
+[console_scripts]
+maro = maro.cli.maro:main
