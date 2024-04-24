@@ -1,7 +1,7 @@
 env_conf = {
     "scenario": "cim",
     "topology": "toy.4p_ssdd_l0.0",  # "global_trade.22p_l0.8" for testing
-    "durations": 100,
+    "durations": 500,
     "start_tick": 0,
     "options": {"enable-dump-snapshot": "./dump_data"}
 }
